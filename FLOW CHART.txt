@@ -1,0 +1,13 @@
+1 BAŞLA
+2 ekrana yaz (nt giriniz)
+3 klavyeden al (nt)
+4 eğer not <=35 ise yaz "1"
+5 değilse not <=35 veya 45 ise yaz "2"
+6 değilse not <=45 veya 60 ise yaz "3" 
+7 değilse not <=60 veya 84 ise yaz "4"
+8 değilse not <=84 veya 101 ise yaz "5"
+9 ekrana ver "nt 1 ve 101 arası olmalı"
+10 DUR  
+
+
+   
